@@ -1,0 +1,16 @@
+G)H
+D)I
+I)Z
+I)Y
+COM)B
+J)K
+B)C
+C)D
+D)E
+B)G
+E)F
+E)J
+K)L
+XX)SAN
+K)YOU
+Y)XX
